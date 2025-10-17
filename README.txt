@@ -1,16 +1,36 @@
-Aplicacion Web Con El Lenguaje de Programacion PHP, Para El Registro De Mensualidades – Unidad Educativa Campo Rosso
+Aplicacion Web Con El Lenguaje de 
+Programacion PHP, Para El Registro De
+Mensualidades – Unidad Educativa Campo Rosso
 
 🧾 Descripción del Proyecto 
 
-El proyecto “Desarrollo de una aplicación web con el lenguaje de programación PHP para el registro de mensualidades en la Unidad Educativa Campo Rosso” tiene como objetivo principal digitalizar y automatizar el proceso de control y registro de pagos escolares que actualmente se realiza de forma manual por la junta escolar.
-En la institución, los pagos de mensualidades se registran tradicionalmente en hojas o cuadernos, lo que genera errores frecuentes, pérdida de información y dificultad para realizar reportes. Este proyecto surge como una solución tecnológica que busca modernizar la gestión administrativa, mejorar la organización y garantizar la seguridad de los datos.
-
-La aplicación fue desarrollada utilizando el lenguaje PHP y la base de datos MySQL, ejecutándose en el entorno local mediante XAMPP. El sistema permite que el administrador registre estudiantes, controle los pagos realizados, genere reportes y mantenga actualizada la información. A su vez, los estudiantes o padres pueden consultar el estado de sus pagos, lo que promueve la transparencia y comunicación con la institución.
-
-Este proyecto no solo representa una mejora en la eficiencia y precisión de los registros, sino también un avance en la transformación digital educativa, fomentando el uso de la tecnología como herramienta de gestión. A futuro, el sistema puede ampliarse para incluir notificaciones automáticas, copias de seguridad en la nube y acceso desde dispositivos móviles, fortaleciendo aún más la administración escolar.
-
+El proyecto “Desarrollo de una aplicación web con 
+el lenguaje de programación PHP para el registro de
+mensualidades en la Unidad Educativa Campo Rosso”
+tiene como objetivo principal digitalizar y automatizar 
+el proceso de control y registro de pagos escolares
+que actualmente se realiza de forma manual por la
+junta escolar.
+En la institución, los pagos de mensualidades 
+se registran tradicionalmente en hojas o cuadernos,
+lo que genera errores frecuentes, pérdida de información 
+y dificultad para realizar reportes. Este proyecto surge
+como una solución tecnológica que busca modernizar la
+gestión administrativa, mejorar la organización y
+garantizar la seguridad de los datos.
+La aplicación fue desarrollada utilizando el lenguaje 
+PHP y la base de datos MySQL, ejecutándose en el entorno local
+mediante XAMPP. El sistema permite que el administrador registre
+estudiantes, controle los pagos realizados, genere reportes y
+mantenga actualizada la información. A su vez, los estudiantes o
+padres pueden consultar el estado de sus pagos, lo que promueve la
+transparencia y comunicación con la institución.
 🎯 Objetivo del Software
-Desarrollar una aplicación web segura, práctica y confiable que permita registrar, controlar y consultar los pagos mensuales de los estudiantes en la Unidad Educativa Campo Rosso, reemplazando el sistema manual de la junta escolar y optimizando la gestión administrativa.
+Desarrollar una aplicación web segura, práctica y confiable que
+permita registrar, controlar y consultar los pagos mensuales de
+los estudiantes en la Unidad Educativa Campo Rosso, reemplazando 
+el sistema manual de la junta escolar y optimizando la gestión
+administrativa.
 
 ⚙ Tecnologías Utilizadas
 
@@ -24,7 +44,8 @@ Frontend: HTML, CSS, JavaScript
 
 Servidor local: Apache
 
-Herramientas de diseño: Draw.io (para diagramas), Figma (interfaz visual)
+Herramientas de diseño: Draw.io
+(para diagramas), Figma (interfaz visual)
 
 Control de versiones: Git y GitHub
 
